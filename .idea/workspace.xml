@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56fd2cc4-1ec7-4212-a20a-f11d22d88a41" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/golang_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch01_hello_world/hello_world.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_变量和常量/01_firstTest_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_变量和常量/02_fib_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_变量和常量/03_swap_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch02_变量和常量/04_const_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03_基本数据类型/01_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04_运算符/01_operator_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05_条件和循环/01_loop_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05_条件和循环/02_condation_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05_条件和循环/03_switch_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06_数组和切片/01_array_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06_数组和切片/02_slice_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07_map/01_map_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08_map/01_map_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09_字符串/01_string_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10_函数/01_func_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11_面向对象/01_encap_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11_面向对象/02_interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11_面向对象/03_type_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12_继承/01_extends_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_空接口/01_interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_空接口/02_empty_interface_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14_error/01_error_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_package/01_package_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_package/series/series.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://D:/Program Files/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1wIrYQT6xs4wYmlx6rrhCQJXdWW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable..is.expanded" value="false" />
+    <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestPackage in golang_learn/ch15_package">
+    <configuration name="TestPackage in golang_learn/ch15_package" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang_learn" />
+      <working_directory value="$PROJECT_DIR$/ch15_package" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golang_learn/ch15_package" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestPackage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestPackage in golang_learn/src/ch15_package" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang_learn" />
+      <working_directory value="$PROJECT_DIR$/src/ch15_package" />
+      <root_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="golang_learn/src/ch15_package" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <pattern value="^\QTestPackage\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestPackage in golang_learn/ch15_package" />
+        <item itemvalue="Go Test.TestPackage in golang_learn/src/ch15_package" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+</project>
